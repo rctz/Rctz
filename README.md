@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rctz
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning mechatronic engineer
+- 🌱 I’m currently working software engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
