@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Rachata (@Rctz)
 - 🌱 I’m currently working as a software engineer @[TOYOTA TSUSHO NEXTY ELECTRONICS (THAILAND) ](https://www.th.nexty-ele.com/home.php)
-- 💞️ I’m looking to collaborate on open-source projects and innovative software solutions
+<!--- - 💞️ I’m looking to collaborate on open-source projects and innovative software solutions --->
 
 ### 🛠️ Technologies & Tools
 - Languages: JavaScript, Python, Java, C++, Css, Html
