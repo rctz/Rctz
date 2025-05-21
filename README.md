@@ -13,7 +13,7 @@
 
 ### 🌱 Learning & Growth
 - Currently learning: Japanese, Machine Learning
-- Interested in: DevOps, AI/ML, Backend's large scale system, IoT
+- Interested in: Rust, AI/ML, Backend's large scale system, IoT
 
 ### 📈 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rctz&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
