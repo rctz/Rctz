@@ -3,7 +3,7 @@
 <!--- - 💞️ I’m looking to collaborate on open-source projects and innovative software solutions --->
 
 ### 🛠️ Technologies & Tools
-- Languages: JavaScript, TypeScript Python, Java, C++, Rust
+- Languages: JavaScript, TypeScript, Python, C/C++, Rust, VBA
 - Frameworks: React, Node.js, Express, Django, ROS
 - Databases: MySQL, PostgreSQL
 - Tools: Git, Docker, Postman, Sonarqube, CI/CD
