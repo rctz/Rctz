@@ -3,7 +3,7 @@
 <!--- - 💞️ I’m looking to collaborate on open-source projects and innovative software solutions --->
 
 ### 🛠️ Technologies & Tools
-- Languages: JavaScript, Python, Java, C++, CSS, HTML
+- Languages: JavaScript, TypeScript Python, Java, C++, Rust
 - Frameworks: React, Node.js, Express, Django, ROS
 - Databases: MySQL, PostgreSQL
 - Tools: Git, Docker, Postman, Sonarqube, CI/CD
@@ -13,7 +13,7 @@
 
 ### 🌱 Learning & Growth
 - Currently learning: Japanese, Machine Learning
-- Interested in: Rust, AI/ML, Backend's large scale system, IoT
+- Interested in: AI/ML, Backend's large scale system, IoT
 
 ### 📈 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rctz&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
